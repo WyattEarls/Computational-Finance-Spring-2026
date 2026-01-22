@@ -1,5 +1,5 @@
 # Computational-Finance-Spring-2026
-This repository is a dual-purpose technical portfolio. It contains active research journals documenting my deep dive into Python for Finance (Hilpisch), alongside four major capstone projects that synthesize these concepts into production-ready financial projects.
+This repository is a dual-purpose technical portfolio. It contains active research journals documenting my deep dive into "Python for Finance" (Hilpisch), alongside four major capstone projects that synthesize these concepts into production-ready financial projects.
 - The Journals: Serve as a "Lab Notebook," showing the iterative development of my skills in data engineering, stochastic calculus, and machine learning.
 - The Projects: Represent the culmination of those skills, focused on high-level goals like Derivative Analytics and Algorithmic Trading.
 
