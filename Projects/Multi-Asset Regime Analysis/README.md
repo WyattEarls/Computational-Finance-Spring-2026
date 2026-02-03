@@ -4,6 +4,11 @@
 ## 📌 Project Overview
 This project engineers a quantitative risk-assessment pipeline to evaluate how different asset classes—Equities (SPY), Bonds (TLT), Gold (GLD), and Commodities (USO)— behaved during the high-volatility regime of 2020. 
 
+## 📊 2020 Multi-Asset Crisis Intelligence Dashboard
+![Multi-Asset Analysis Dashboard](./image.png)
+
+*Interactive version available in the Jupyter Notebook.*
+
 ## 🛠️ Technical Stack
 * **Language:** Python 3.10+
 * **Data Engineering:** Pandas, NumPy, yfinance
