@@ -5,5 +5,5 @@ This repository is a dual-purpose technical portfolio. It contains active resear
 
 Core Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, SciPy.
 
-## Current Focus: Chapter 9 - Input/Output Operations
-I am currently mastering the high performance and serialization of financial data, following the exercises in Chapter 8 of "Python for Finance" (Hilpisch).
+## Current Focus: Chapter 10 - Performance Python
+I am currently mastering the vectorization and computational efficiency of financial data, following the exercises in Chapter 9 of "Python for Finance" (Hilpisch).
