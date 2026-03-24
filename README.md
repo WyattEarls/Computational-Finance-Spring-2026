@@ -5,5 +5,5 @@ This repository is a dual-purpose technical portfolio. It contains active resear
 
 Core Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, SciPy.
 
-## Current Focus: Chapter 11 - Mathematical Tools
-I am currently mastering the approximation and integration of financial data, following the exercises in Chapter 10 of "Python for Finance" (Hilpisch).
+## Current Focus: Chapter 12 - Stochastics
+I am currently mastering the discretization and stochastic simulation of financial data, following the exercises in Chapter 11 of "Python for Finance" (Hilpisch).
